@@ -34,8 +34,8 @@ Hi! I'm Saptanshu Wanjari, currently pursuing a Bachelor of Technology in Comput
 
 ## 📬 Contact
 
-- **Email:** saptanshuwanjari63@gmail.com
-- **LinkedIn:** [in/saptanshu-wanjari-153ba826a]
+- **Email:** [saptanshuwanjari63@gmail.com](mailto:saptanshuwanjari63@gmail.com)
+- **LinkedIn:** [Saptanshu Wanjari](https://www.linkedin.com/in/saptanshu-wanjari-153ba826a)
 - **GitHub:** [SaptanshuWanjari](https://github.com/SaptanshuWanjari)
 
 ---
